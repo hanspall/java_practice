@@ -65,7 +65,7 @@ public class App {
         int yh = 7;
         int zh = 10;
 
-        boolean compare = zh != yh;
+        boolean compare = z != yh;
 
 
 
